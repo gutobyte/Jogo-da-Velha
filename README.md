@@ -16,8 +16,8 @@ O que define as marcações são as letras A B C D E F G H I:
                      G H I
                      
 OBS: Caso o jogador marque uma letra que não exista, este perde a vez.
-OBS²: Coloquei apenras para aceitar letras maiusculas como marcação.
+OBS²: Coloquei apenas para aceitar letras maiúsculas como marcação.
 
-Fiz este básico programa apenas com base em alguns conhecimentos de lógica de programação e metodos em java.
+Fiz este básico programa apenas com base em alguns conhecimentos de lógica de programação e a utilização de metodos em java.
                      
                      
