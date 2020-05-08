@@ -1,4 +1,4 @@
-https://codete.com/blog/java-8-java-11-quick-guide/# Jogo-da-Velha
+# Jogo-da-Velha
 
 Um básico Jogo da Velha utilizando uma matriz 3x3 de tipo char.
 Caso queira compilar diretamente o arquivo .java, basta utilizar o comando javac JogoDaVelha.java no prompt de comando do Windows ou terminal GNU/Linux.
